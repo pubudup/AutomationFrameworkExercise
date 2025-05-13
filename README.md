@@ -9,14 +9,14 @@ Features:
 -The application should calculate the correct interest based on the selected duration, principal amount, and interest rate.
 -The application should display the calculated interest and the total amount including interest.
 -All input fields (principal amount, interest rate, duration and consent) are mandatory.
+-For simplicity, the calculated interest and total amount should be rounded to two decimal places.
 
 The application should inform the user if any field is left empty or not selected. - Not complete
 
 
-
 **Ambiguous Requirements. Business clarification is required to write test cases**
 
-For simplicity, the calculated interest and total amount should be rounded to two decimal places.
+
 The application should be responsive and user-friendly.
 Clear error messages should be displayed to guide users in case of missing or incorrect inputs.
 
