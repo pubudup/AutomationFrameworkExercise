@@ -14,11 +14,11 @@ Features:
 The application should inform the user if any field is left empty or not selected. - Not complete
 
 
-**Ambiguous Requirements. Business clarification is required to write test cases**
+**Requirements below are ambiguous. Business clarification is required to complete functional analysis**
 
 
 The application should be responsive and user-friendly.
 Clear error messages should be displayed to guide users in case of missing or incorrect inputs.
 
 
-Note: Test timed out at 1h 30m mark approximately. Some of the assertions are not completed as the time ran out in above test cases
+Note: Test timed out at 1h 30m mark approximately. Some of the assertions are not completed due to provided timeframe.
